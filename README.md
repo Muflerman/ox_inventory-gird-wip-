@@ -1,6 +1,7 @@
 > [!CAUTION]
 > This is still a work in progress and needs testing for **ALL FRAMEWORKS**.
-<img width="1376" height="774" alt="image" src="https://github.com/user-attachments/assets/56556ea1-eeef-405c-9a6a-e455d7a237fd" />
+
+![89def6b24c5b806a1b3a03c5c0344728](https://github.com/user-attachments/assets/6ef66fe4-71a3-440d-8d7a-1a0201140f94)
 
 # 📌 Project Status 
 > [!NOTE]  
@@ -32,15 +33,31 @@
 - [x] Fixed walking while searching
 - [x] Add hotbar section when viewing another person inventory
 
+---
+
+## 🚀 Recent Updates
+> Recent improvements and fixes applied to the redesign.
+
+- **Improved Weight Display**: Inventory weight now displays in kilograms (kg) with a dynamic progress bar that only appears when a maximum weight is set.
+- **Hotbar Enhancements**:
+  - Repositioned to the bottom-right of the screen for a cleaner HUD.
+  - Removed redundant "Hotbar" title.
+  - Updated visual style with white silhouettes and square highlights.
+- **Animation Polish**: The inventory panel now features a smooth downward-only expansion animation.
+- **Backpack System Fixes**: Resolved issues with backpack slot restrictions and item removal.
+- **Visual & Bug Fixes**:
+  - Fixed item image loading and display issues.
+  - Refined visibility logic for equipped backpacks.
+
 --- 
 
 # 🎨 Project Description
 
-**All credit goes to Casper and his inital resdesign. I've either made things worst or better, lol.**
+**Full credit and merit go to [sexualsalt774](https://github.com/sexualsalt774/ox-inventory-redesign-grid/) for the original redesign of this grid inventory.**
 
-Shoutout to Autlaaw for the slot restrtions and icons for the utility inventory. 
+Shoutout to Autlaaw for the slot restrictions and icons for the utility inventory, and Casper for his initial inspirations.
 
-This redesigned version of **ox_inventory** is an active **work in progress**, released early so the community can continue improving, expanding, and polishing it. It builds on Casper’s original redesign while fixing multiple issues, improving stability, and introducing new features across the UI and core logic.
+This redesigned version of **ox_inventory** is an active **work in progress**, released early so the community can continue improving, expanding, and polishing it. It builds on the original redesign while fixing multiple issues, improving stability, and introducing new features across the UI and core logic.
 
 A fully custom **shop system** (production-ready) has been added, along with a new **crafting system** that is currently under development. Additional improvements, bug fixes, and quality-of-life features will continue to roll out as the project evolves.
 
