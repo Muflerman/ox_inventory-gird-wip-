@@ -2,7 +2,8 @@
 
 > [!CAUTION]
 > This is still a work in progress and needs testing for **ALL FRAMEWORKS**.
-<img width="1376" height="774"[ alt="image" src="https://github.com/user-attachments/assets/56556ea1-eeef-405c-9a6a-e455d7a237fd](https://gyazo.com/82fef5650e370cecd0eaf65c821b3a35)" />
+
+![89def6b24c5b806a1b3a03c5c0344728](https://github.com/user-attachments/assets/8d6dc332-f1b6-4361-af3d-3369da6afd71)
 
 # 📌 Project Status 
 > [!NOTE]  
